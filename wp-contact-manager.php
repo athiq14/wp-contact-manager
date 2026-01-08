@@ -6,7 +6,7 @@
  * Version: 1.0.0
  * Author: Mohamed Athiq
  * License: GPL2
- */
+ */ 
 
 if (!defined('ABSPATH')) {
     exit;
