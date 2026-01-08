@@ -16,10 +16,14 @@ WP Contact Manager is a custom WordPress plugin that stores and manages contact 
 
 📂 Plugin Structure
 
-wp-contact-manager/
+wp-contact-manager
+
 ├── wp-contact-manager.php
+
 ├── README.md
+
 └── includes/
+
 └── admin-page.php
 
 
